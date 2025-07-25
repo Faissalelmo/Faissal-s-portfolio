@@ -55,7 +55,7 @@ export default function HeroSection() {
                 className="relative w-full h-full"
               >
                 <img
-                  src="/placeholder.svg?height=192&width=192"
+                  src="/Faissal_Elmokaddem.jpg?height=192&width=192"
                   alt="Faissal Elmokaddem"
                   className="w-full h-full rounded-full object-cover border-4 border-primary/20 shadow-2xl"
                 />
