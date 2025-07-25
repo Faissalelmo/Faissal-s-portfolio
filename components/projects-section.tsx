@@ -51,7 +51,7 @@ export default function ProjectsSection() {
       title: "ML : Estimation Niveau d'Obésité",
       description:
         "Modèle de machine learning sophistiqué analysant les habitudes alimentaires et le mode de vie pour prédire et classifier les niveaux d'obésité.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/Estimation niveau d'obésité.png?height=400&width=600",
       technologies: ["Python", "Scikit-learn", "Pandas", "Seaborn", "Random Forest", "XGBoost"],
       category: "Machine Learning",
       highlights: [
