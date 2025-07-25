@@ -31,11 +31,11 @@ export default function ProjectsSection() {
       demo: "#",
     },
     {
-      title: "Détection de Panneaux avec YOLOv8",
+      title: "Speed Limit Information",
       description:
         "Système de vision par ordinateur en temps réel pour la détection automatique des panneaux de signalisation routière, optimisé pour les applications ADAS.",
       image: "/Image (1).jfif?height=400&width=600",
-      technologies: ["Python", "YOLOv8", "OpenCV", "PyTorch", "Computer Vision", "ADAS"],
+      technologies: ["Python", "YOLOv8", "OpenCV", "PyTorch", "Computer Vision", "ADAS", "Docker", "OpenStreetMap", "Git/Server/Windows"],
       category: "Computer Vision",
       highlights: [
         "Détection en temps réel (>30 FPS)",
@@ -44,8 +44,8 @@ export default function ProjectsSection() {
         "Support multi-classes de panneaux",
       ],
       impact: "Détection temps réel haute précision",
-      github: "#",
-      demo: "#",
+      github: "https://github.com/Faissalelmo/Speed-Limit-Information",
+      demo: "https://www.youtube.com/watch?v=3ynyFkS_09o&pp=ygUcc3BlZWQgbGltaXQgaW5mb3JtYXRpb24gYWRhcw%3D%3D",
     },
     {
       title: "ML : Estimation Niveau d'Obésité",
@@ -61,15 +61,15 @@ export default function ProjectsSection() {
         "Modèles ensemble optimisés",
       ],
       impact: "Accuracy > 92% sur données test",
-      github: "#",
-      demo: "#",
+      github: "https://github.com/Faissalelmo/PDS-Project_-HubbleMind_Internship",
+      demo: "https://www.youtube.com/watch?v=rk392bPAO7U&pp=ygUdRXN0aW1hdGlvbiBOaXZlYXUgZCdPYsOpc2l0w6k%3D",
     },
     {
       title: "Optimisation Énergétique IA + Pleiades",
       description:
         "Solution d'optimisation énergétique révolutionnaire combinant simulation thermique Pleiades et algorithmes d'IA pour maximiser l'efficacité énergétique.",
       image: "/placeholder.svg?height=400&width=600",
-      technologies: ["Python", "Pleiades", "TensorFlow", "Optimization", "Energy Modeling", "Simulation"],
+      technologies: ["Python", "Pleiades", "TensorFlow", "Optimization", "Energy Combustion", "Energy Modeling", "Simulation", "QAI", "IoT", "Machine Learning"],
       category: "IA & Énergie",
       highlights: [
         "Simulation thermique haute fidélité",
