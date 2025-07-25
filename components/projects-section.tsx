@@ -34,7 +34,7 @@ export default function ProjectsSection() {
       title: "Détection de Panneaux avec YOLOv8",
       description:
         "Système de vision par ordinateur en temps réel pour la détection automatique des panneaux de signalisation routière, optimisé pour les applications ADAS.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/Image (1).jfif?height=400&width=600",
       technologies: ["Python", "YOLOv8", "OpenCV", "PyTorch", "Computer Vision", "ADAS"],
       category: "Computer Vision",
       highlights: [
